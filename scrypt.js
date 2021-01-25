@@ -237,8 +237,6 @@ class Company {
         }
         programmer.office.removeProgrammer(programmer);
     }
-
-
 }
 
 
